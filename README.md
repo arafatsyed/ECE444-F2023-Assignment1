@@ -11,3 +11,7 @@ Q2
 Q3
 
 ![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/f72133ac-e9ae-4b76-a169-d803fce66986)
+
+Q4
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/af8b4378-8f87-4078-9067-f272f99bc3fa)
