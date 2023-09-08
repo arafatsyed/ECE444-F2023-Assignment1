@@ -20,5 +20,5 @@ Q5
 
 running rebase
 
-![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/43b47acb-0cea-4c66-8c6f-9eef1c5b976e)
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/73fb8816-be8f-45ce-9150-82d6230ff035)
 
