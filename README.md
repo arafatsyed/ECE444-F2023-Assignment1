@@ -18,6 +18,18 @@ Q4
 
 Q5
 
+(please verify using commits labelled "q5 official commit X")
+
+Commit c1 and c2 on rebase
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/e873d777-90db-485b-bb5a-cc54d9c7749c)
+
+Commit c3 and c4 on develop
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/415d47fe-f24e-45bd-8af9-d94d2d5f47cb)
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/1669a590-0935-4ae2-8e75-e8a725f7e454)
+
 running rebase on develop branch (gets order c1->c2->c3->c4)
 
 ![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/9bfd66ef-ae9e-46b8-8db6-e10cfd0677a5)
