@@ -18,7 +18,12 @@ Q4
 
 Q5
 
-running rebase
+running rebase on develop branch (gets order c1->c2->c3->c4)
 
-![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/73fb8816-be8f-45ce-9150-82d6230ff035)
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/9bfd66ef-ae9e-46b8-8db6-e10cfd0677a5)
+
+Use git rebase --interactive to reorder commits to c3->c4->c1->c2
+
+![image](https://github.com/arafatsyed/ECE444-F2023-Assignment1/assets/55632837/b2c16e4c-5551-4c1c-9824-6e9c859ad461)
+
 
